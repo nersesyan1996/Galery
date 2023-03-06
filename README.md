@@ -1,1 +1,2 @@
-# Galery
+# MyGalery
+Galery for my photos
